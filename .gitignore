@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+
+# SvelteKit / Vite
+.svelte-kit/
+build/
+dist/
+.vite/
+
+# Cloudflare / Wrangler
+.wrangler/
+.dev.vars
+.dev.vars.*
+worker-configuration.d.ts
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Logs
+*.log
+npm-debug.log*
+errors.txt
+
+# Editor / Windows files
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# Testing and cache
+coverage/
+.cache/
+*.tsbuildinfo
+Gjnzh4&LL7UVY.txt

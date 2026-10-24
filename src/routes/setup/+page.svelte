@@ -1,0 +1,1 @@
+<svelte:head><title>Configure My Day</title></svelte:head><main class="auth-shell"><section class="auth-card"><h1>Configuration needed</h1><p>Add PUBLIC_SUPABASE_URL, PUBLIC_SUPABASE_PUBLISHABLE_KEY and PRIVATE_OWNER_EMAIL to your environment, then restart the app.</p><p>See README.md for exact steps.</p></section></main>
