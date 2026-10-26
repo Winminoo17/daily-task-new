@@ -594,6 +594,7 @@
       <div id="progress">
         <ProgressChart
           history={data.history}
+          tasks={data.tasks}
           today={data.today}
         />
       </div>
